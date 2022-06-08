@@ -1,15 +1,29 @@
 h1 {
-  font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-p {
-    font-family: 'Montserrat', sans-serif;
-}
-
-body{
+body {
     background-color: lightgray;
 }
 
-#foto{
-    border-radius: 3%;
+#foto {
+    border-radius: 5%;
+}
+
+.fontep {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button {
+    background-color: lightgreen;
+    padding: 8px 24px;
+    border-radius: 10%;
+}
+
+.size-hab{
+    font-size: 19px;
+}
+
+.links{
+    text-decoration: none;
 }
