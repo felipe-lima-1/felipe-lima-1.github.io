@@ -6,20 +6,34 @@ body {
     background-color: lightgray;
 }
 
-#foto {
-    border-radius: 5%;
-}
-
 .fontep {
     font-family: 'Montserrat', sans-serif;
 }
 
-.button {
-    background-color: lightgreen;
-    padding: 8px 24px;
-    border-radius: 10%;
-}
-
 .size-hab{
     font-size: 19px;
+}
+
+#foto {
+    border-radius: 50%;
+}
+
+#linkedin {
+    background-color: #0661e9;
+    padding: 10px 30px;
+    border-radius: 8px;
+    margin-right: 90%;
+    border: 2px solid;
+    text-align: center;
+    color: white;
+}
+
+#github {
+    background-color: rgb(27, 26, 26);
+    padding: 10px 30px;
+    border-radius: 8px;
+    margin-right: 90%;
+    border: 2px solid;
+    text-align: center;
+    color: white
 }
